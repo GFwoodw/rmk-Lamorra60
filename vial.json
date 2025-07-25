@@ -8,6 +8,12 @@
         "cols": 3
     },
     "layouts": {
+        "labels": [
+            "Split Backspace",
+            "ISO Enter",
+            ["Row 4", "Default", "Split right shift", "ISO Default", "ISO split right shift"],
+            ["Bottom row", "6.25U", "7U"]
+        ],
         "keymap": [
             [
                 { "x": 0.25, "c": "#777777" },
