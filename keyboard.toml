@@ -37,7 +37,7 @@ keymap =[
 
 [light]
 # All light pins are high-active by default, uncomment if you want it to be low-active
-capslock.pin = "PIN_25"
+capslock = { pin = "PIN_25", low_active = false }
 # capslock.low_active = true
 # scrolllock.pin = "PA3"
 # scrolllock.low_active = true
